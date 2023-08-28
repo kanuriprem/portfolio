@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+header{
+    background-color: black;
+    height: 100px;
+    width: 1400px;
+    padding: 30px;
+}
+nav ul li{
+    display: inline;
+    padding: 30px;
+}
+nav ul li{
+    color:chartreuse;
+    text-decoration: none;
+}
+h1{
+    color: white;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Portfolio{
+    background-color: aqua;
+}
+li{
+    display: inline;
+}
+#skills ul li{
+    padding: 40px;
+    
+}
+footer{
+    background-color: blueviolet;
+    height: 30px;
+}
